@@ -13,7 +13,8 @@
     <body>
         <x-navigation-navigation />
         <main>
-            
+
         </main>
+        @vite(['resources/js/nav.js'])
     </body>
 </html>
